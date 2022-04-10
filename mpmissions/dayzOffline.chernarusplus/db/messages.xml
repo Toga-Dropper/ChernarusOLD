@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+    <!-- <message> -->
+        <!-- <delay>1</delay> -->
+        <!-- <repeat>5</repeat> -->
+        <!-- <text>Get those body parts covered asap.....you can still get frostbitten, even without snow on the ground.</text> -->
+    <!-- </message> -->
+    <!-- <message> -->
+        <!-- <delay>3</delay> -->
+        <!-- <repeat>10</repeat> -->
+        <!-- <text>Epinephrine and Morphine give health boosts for those close zombie hug sessions, or creature fondling.</text> -->
+    <!-- </message>	 -->
+    <!-- <message> -->
+        <!-- <delay>5</delay> -->
+        <!-- <repeat>15</repeat> -->
+        <!-- <text>Be sure to check your keybinds!!!  </text> -->
+    <!-- </message>	 -->
+    <!-- <message> -->
+        <!-- <delay>7</delay> -->
+        <!-- <repeat>20</repeat> -->
+        <!-- <text>DISCORD___youll wanna go where everybody knows your name.</text> -->
+    <!-- </message> -->
+	    <!-- <message> -->
+        <!-- <delay>9</delay> -->
+        <!-- <repeat>25</repeat> -->
+        <!-- <text>If you see a regular dog, give it a bone and tame it!</text> -->
+    <!-- </message> -->
+	<!-- <message> -->
+        <!-- <delay>11</delay> -->
+        <!-- <repeat>30</repeat> -->
+        <!-- <text>This server restarts every 6 hours.  Do not get locked in keycard areas or your heli.</text> -->
+    <!-- </message> -->
+	<!-- <message> -->
+        <!-- <delay>13</delay> -->
+        <!-- <repeat>35</repeat> -->
+        <!-- <text>If we do not bring you enough pain, please scream in discord describing where the zombie should have touched you.</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>21</delay> -->
+        <!-- <repeat>45</repeat> -->
+        <!-- <text>All keycard doors lock upon server restart, do not get locked in, NO MERCY!!!!!</text> -->
+    <!-- </message>	 -->
+	<!-- <message> -->
+        <!-- <delay>27</delay> -->
+        <!-- <repeat>55</repeat> -->
+        <!-- <text>https://discord.gg/7dFzpPZk7P  or click box in Server Information</text> -->
+    <!-- </message>		 -->
+</messages>
