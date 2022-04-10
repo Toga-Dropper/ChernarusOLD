@@ -1,0 +1,55 @@
+{
+    "M_STATIC_MARKER_ARRAY": [
+        {
+            "M_MARKER_NAME": "HZ",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\pictureParachute_ca.paa",
+            "M_COLOR": [
+                0.0,
+                255.0,
+                0.0
+            ],
+            "M_POSITION": [
+                6587.0,
+                0.0,
+                15270.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "TZ",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\iconCar_ca.paa",
+            "M_COLOR": [
+                255.0,
+                0.0,
+                0.0
+            ],
+            "M_POSITION": [
+                10125.0,
+                0.0,
+                5202.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        },
+        {
+            "M_MARKER_NAME": "Vices",
+            "M_ICON_PATH": "VanillaPPMap\\GUI\\Textures\\CustomMapIcons\\waypointcompleted_CA.paa",
+            "M_COLOR": [
+                0.0,
+                0.0,
+                255.0
+            ],
+            "M_POSITION": [
+                1371.0,
+                0.0,
+                11464.0
+            ],
+            "M_ISACTIVE": 1,
+            "M_IS_3D_ACTIVE": 1
+        }		
+    ],
+    "m_CanUse3DMarkers": 1,
+    "m_OwnPositionMarkerDisabled": 0,
+    "m_ForceMapItemOnly": 0
+}

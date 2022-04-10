@@ -1,0 +1,23 @@
+{
+    "ServerUsingCustomMapping": 0,
+    "ServerAutomaticRelock": 0,
+    "AutomaticRelockTime": 359,
+    "debug_build": 0,
+    "admin_log": 0,
+    "KeyCard_Locations": [
+        {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "Location_Name": "",
+            "door_index": 0,
+            "BuildingClassName": "",
+            "keycard_class_name": "",
+            "single_use": 1,
+            "light_height": 1.0,
+            "use_light": 0,
+            "alarm_sound": "",
+            "use_alarm": 0
+        }
+    ]
+}
